@@ -5,14 +5,14 @@
 ### 🙋 Hello, welcome to my page! 
 
 
-I'm BryanHuang from 🇨🇳**Zhejiang,China**, currently living in 🇨🇳**Shanghai,China**.
+I'm BryanHuang from 🇨🇳**Zhejiang, China**, currently living in 🇨🇳**Shanghai, China**.
 
 
 1. 🤔 Focusing on Causality Theory and Causation for machine learning. 
 2. 🔭 Working on the development of Next version of MarginNote.
 3. 🧫 Curious about the application of machine learning in medical image science.
 4. 📷 Love photographing.
-5. 🏫 A student in School of Mathematical Sciences,Fudan University.
+5. 🏫 A student in School of Mathematical Sciences, Fudan University.
 
 ### 🔧 Languages and Tools
 <div align= "left"><br>
