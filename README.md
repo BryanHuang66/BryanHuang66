@@ -8,7 +8,7 @@
 I'm HuangKewei from 🇨🇳**Zhejiang, China**, currently living in 🇨🇳**Shanghai, China**.
 
 
-1. 🤔 Focusing on Causal Theories, especially Information FLow. 
+1. 🤔 Focusing on Causal Theories, especially the Liang-Kleeman Information FLow. 
 2. 🧫 Curious about the application of machine learning in neuro-science.
 3. 📷 Love photographing.
 4. 🏫 A student in School of Data Science, Fudan University.
